@@ -18,7 +18,7 @@
     "backgroundColor": "#F6F6F6",
     "backgroundTextStyle": "light",
     "navigationBarBackgroundColor": "#F6F6F6",
-    "navigationBarTitleText": "云开发 QuickStart",
+    "navigationBarTitleText": "视频处理",
     "navigationBarTextStyle": "black"
   },
   "sitemapLocation": "sitemap.json",
